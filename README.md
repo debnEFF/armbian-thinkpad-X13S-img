@@ -1,0 +1,1 @@
+# armbian-thinkpad-X13S-img
